@@ -1,4 +1,4 @@
-# EDK II Test Project
+# EDK II Test Project - Hello
 
 A modern, feature-rich, cross-platform firmware test environment
 for the UEFI and PI specifications from www.uefi.org.
